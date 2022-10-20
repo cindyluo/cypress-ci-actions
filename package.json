@@ -1,0 +1,22 @@
+{
+  "name": "cypress-ci-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cindyluo/cypress-ci-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cindyluo/cypress-ci-actions/issues"
+  },
+  "homepage": "https://github.com/cindyluo/cypress-ci-actions#readme",
+  "devDependencies": {
+    "cypress": "^10.10.0"
+  }
+}
